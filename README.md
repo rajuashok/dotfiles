@@ -10,7 +10,11 @@
 
 [![Join the chat at https://gitter.im/skwp/dotfiles](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/skwp/dotfiles?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-#### sh -c "\`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh \`"
+```
+sh -c "\`curl -fsSL https://raw.githubusercontent.com/rajuashok/dotfiles/master/install.sh \`"
+```
+
+Take a look for yourself what this shell script does: https://raw.githubusercontent.com/rajuashok/dotfiles/master/install.sh
 
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
 
